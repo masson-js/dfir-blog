@@ -2,7 +2,18 @@
 
 Hey there! I'm Masson, and this is my GitHub repository dedicated to my Digital Forensics and Incident Response (DFIR) journey, where I'll document my progress, share projects, and build a portfolio.
 
-Depository Structure:
+### You can find here:
+> Documentation about DFIR and Cybersecurity
+
+### Depository Structure:
+- Labs
+    - CTFs
+    - Experiments
+    - Tutorials
+- Law and Regulations
+    - EU
+    - USA
+    
 
 
 
