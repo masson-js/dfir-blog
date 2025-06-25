@@ -5,14 +5,28 @@ Hey there! I'm Masson, and this is my GitHub repository dedicated to my Digital 
 ### You can find here:
 > Documentation about DFIR and Cybersecurity
 
+> Laws and Regulations about Cybersecutiry and DFIR of USA and EU
+
+> Practical examples
+
 ### Depository Structure:
 - Labs
     - CTFs
     - Experiments
     - Tutorials
+      
 - Law and Regulations
-    - EU
-    - USA
+  - EU
+  - USA
+    
+- Notes
+  
+- Projects
+    - Forensics
+    - Incident-Response
+    - Malware-Analysis
+    - Misc
+    - Network-Forensics
     
 
 
