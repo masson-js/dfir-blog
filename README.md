@@ -1,24 +1,8 @@
-My DFIR Learning Journey
+# 👋 Welcome to My DFIR Repository!
 
-👋 Welcome to My DFIR Adventure!
+Hey there! I'm Masson, and this is my GitHub repository dedicated to my Digital Forensics and Incident Response (DFIR) journey, where I'll document my progress, share projects, and build a portfolio.
 
-Hey there! I'm MassonDFIR (or just call me Masson), and this is my GitHub repository dedicated to my journey into Digital Forensics and Incident Response (DFIR). I'm just starting out, and this space will serve as my learning hub, where I'll document my progress, share projects, and build a portfolio to showcase my skills in DFIR.
-
-🌟 Why DFIR?
-
-DFIR fascinates me because it combines detective work, cybersecurity, and problem-solving. Whether it's analyzing a cyber incident, recovering data, or tracking down digital clues, I want to master the skills to protect systems and uncover the truth behind cyber events. This repo is my sandbox for learning, experimenting, and growing as a DFIR professional.
-
-
-
-🎯 Goals
-
-As a beginner, my main focus is to build a strong foundation in DFIR and create a portfolio that demonstrates my skills. Here's what I plan to achieve:
-
-
-
-
-
-Learn the Basics:
+Depository Structure:
 
 
 
