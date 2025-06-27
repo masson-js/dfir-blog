@@ -100,6 +100,9 @@ This document provides a clear and concise reference for common cybersecurity ab
 > **SEO** - *Search Engine Optimisation*  
 > The process of improving a website’s visibility on search engines to increase traffic and rankings.
 
+>  *SNORT** - *Network Intrusion Detection & Prevention System*  
+> 
+
 > **SIEM** - *Security Information and Event Management*  
 > A system for collecting and analyzing security events to detect threats.
 
@@ -111,3 +114,6 @@ This document provides a clear and concise reference for common cybersecurity ab
 
 > **WPA2** - *Wi-Fi Protected Access 2*  
 > A security protocol for protecting Wi-Fi networks.
+
+> **TELNET** - *is a client-server application protocol that provides access to virtual terminals of remote systems on local area networks or the Internet.*  
+
